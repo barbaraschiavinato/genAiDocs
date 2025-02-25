@@ -1,0 +1,141 @@
+site_name: GenAI investigations
+site_author: Barbara Schiavinato
+site_url: https://placeholder/
+use_directory_urls: false
+not_in_nav: |
+  /includes
+nav:
+  - 'Introduction': index.md
+
+  - 'Coding with GenAI':
+    - 'Overview': gen-ai-coding/index.md
+    - 'Common benefits': gen-ai-coding/common-benefits.md
+    - 'Common problems': gen-ai-coding/common-problems.md
+    - 'Well-Crafted Prompt': gen-ai-coding/prompt.md
+    - 'Code Generation Tests': 
+      - '1. Fetch Data from an API': gen-ai-coding/tests/1-fetch-data.md
+      - '2. DOM Manipulation': gen-ai-coding/tests/2-dom-manipulation.md
+      - '3. Array Manipulation': gen-ai-coding/tests/3-array-manipulation.md
+      - '4. Promise Handling': gen-ai-coding/tests/4-promise-handling.md
+      - '5. Express.js Server Setup': gen-ai-coding/tests/5-express-server-setup.md
+      - '6. Migrate code': gen-ai-coding/tests/6-migrate-code.md
+      - '7. Array reduce': gen-ai-coding/tests/7-array-reduce.md
+      - '8. Create a REST API': gen-ai-coding/tests/8-create-rest-api.md
+      - '9. Data Manipulation with Pandas': gen-ai-coding/tests/9-data-manipulation-panda.md
+      - '10. Responsive CSS Grid Layout': gen-ai-coding/tests/10-responsive-css-grid.md
+      - '11. SQL Query': gen-ai-coding/tests/11-sql-query.md
+      - '12. React Component': gen-ai-coding/tests/12-react-component.md
+      - '13. Sorting Algorithm': gen-ai-coding/tests/13-sorting-algorithm.md
+      - '14. Unit Test with Jest': gen-ai-coding/tests/14-unit-test-jest.md
+      - '15. Dockerfile Configuration': gen-ai-coding/tests/15-dockerfile-configuration.md
+      - '16. Error Handling in NodeJs': gen-ai-coding/tests/16-error-handling-node.md
+      - '17. NextJs Setup': gen-ai-coding/tests/17-nextjs-setup.md
+      - '18. Prompt in Italian': gen-ai-coding/tests/18-nextjs-setup-italian.md
+    - 'Test ranking': gen-ai-coding/test-ranking.md
+  # - 'Requirements gateway': 
+  #   - 'Best practices': requirements/best-practices.md
+  #   - 'Output format': requirements/output-format.md
+  #   - 'Requirements input': requirements/requirements-input.md
+  #   - 'ChatGPT 4 output': requirements/chatgpt-output.md
+  #   - 'Claude 2.1 output': requirements/claude-2_1-output.md
+  #   - 'Claude 3 Haiku output': requirements/claude-3-haiku-output.md
+  #   - 'Claude 3 Sonnet output': requirements/claude-3-sonnet-output.md
+  #   - 'Meta AI output': requirements/metaai-output.md
+  # - 'Tags': tags.md
+  - 'Technical Writing with GenAI': documentation/index.md
+  - 'Building with GenAI':
+    - 'What is Langchain?': upskilling/what-is.md
+    - 'Concepts and examples':
+        - 'Overview': upskilling/main-concepts.md
+        - 'Model I/O': upskilling/model-io.md
+        - 'Retrieval': upskilling/retrieval.md
+        - 'Composition': upskilling/composition.md
+        - 'More': upskilling/additional.md
+    - 'Why now': upskilling/why-now.md
+    - 'Risks': upskilling/risks.md
+    - 'Python vs JS': upskilling/python-vs-js.md
+    - 'Choosing a course': upskilling/choosing-courses.md
+    - 'Frameworks and Dev Kits': upskilling/frameworks.md
+    - 'Slides': upskilling/slides.md
+  - 'Multilingual Challenges': 
+    - 'Language Barriers': multilingual/language-barrier.md
+    - 'Technical Challenges': multilingual/technical-challenges.md
+    - 'Impacts on AI Code Generation': multilingual/impact-code-generation.md
+  - 'Prompt and Fine Tuning':
+    - 'Overview': prompt-tuning/overview.md
+    - 'Best Practices':
+        - 'Prompt Engineering': prompt-tuning/prompt.md
+        - 'Fine-Tuning': prompt-tuning/fine-tuning.md
+extra_css:
+  - assets/stylesheets/extra.css
+extra_javascript:
+  - assets/javascripts/extra.js
+plugins:
+  - include-markdown
+  - search
+  - offline
+  # - git-revision-date
+  - neoteroi.mkdocsoad
+  - git-authors:
+      history: true
+      show_contribution: true
+      sort_authors_by: contribution
+      show_email_address: false
+      exclude: 
+        - include/
+        - checklists/
+        - tags.html
+  - glightbox
+  - tags:
+      tags_file: tags.md 
+  - page-to-pdf:
+      disableOnServe: true
+      exclude: 
+        - include/
+        - tags.html
+  - with-pdf:
+      enabled_if_env: ENABLE_PDF_EXPORT
+      cover_title: GenAI investigations
+      cover_subtitle: Internal document
+      cover_logo: img/logo-big.png
+      author: Barbara Schiavinato
+      copyright: © NTT DATA 2024
+      debug_html: false
+      toc_level: 3
+      exclude_pages: 
+        - tags.html
+      output_path: gen-ai-investigation.pdf
+theme:
+  name: material 
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  font:
+    text: Noto Serif
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - navigation.path
+    - toc.follow
+    - search.suggest
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+markdown_extensions:
+  - attr_list
+  - def_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+      use_pygments: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+

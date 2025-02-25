@@ -1,0 +1,412 @@
+
+Kosam O.
+Rating: 5.0 out of 5
+3 weeks ago
+Excellent Course! The instructor's explanation are well curated. I really understood the concept of LLM in production grade projects. Would definitely recommend this course!
+
+Was this review helpful?
+
+TD
+Ted D.
+Rating: 5.0 out of 5
+4 weeks ago
+Excellent. This course does a great job of explaining how Langchain can be used to use more than one LLM Model in real world applications.
+
+Was this review helpful?
+
+SS
+Suhardi S.
+Rating: 5.0 out of 5
+a month ago
+Initially, found his explanations are too lengthy...but end-up return back to this course again and again to refresh on the concepts.
+
+Was this review helpful?
+
+TG
+Tao G.
+Rating: 5.0 out of 5
+2 months ago
+I rate this course 5 stars. The instructor's explanations are exceptionally clear, and they have crafted several engaging hands-on projects for us to tackle. Learning a new skill or framework can be daunting, but the instructor's positive encouragement spurred me on to complete the course. I gained a wealth of knowledge and never once felt bored throughout the learning process.
+
+Was this review helpful?
+
+SP
+Sandeep P.
+Rating: 4.0 out of 5
+2 months ago
+It's good and I am able understand the concepts clearly. But only problem is Q&A, no proper response if we stuck some where, which I think can be improved.
+
+Was this review helpful?
+
+
+Gabriel R.
+Rating: 3.5 out of 5
+4 weeks ago
+The first part of the course is great, 5 stars. The second part, where he builds an app, becomes too complex too quickly. You can easily lose track of what he is doing, and the focus shifts from understanding the building blocks of langchain to integrating everything in this structure of the app. Also, there are a lot of problems when integrating to the various tools he uses in the second part, together with the deprecated modules from langchain. Not a good experience in this second part, so I rated 3 stars.
+
+Was this review helpful?
+
+SV
+Shannon V.
+Rating: 4.5 out of 5
+a month ago
+Content is very well explained. Good for anyone trying to understand how langchain works and build Gen AI apps.
+
+The langchain library has been updated since the content was recorded, but all the concepts taught are still valid.
+
+OpenAI APIs are used in the course. If you use the free tier, there's a rate limit of 3 requests per min which may cause errors when running chains which exceed this limit e.g. when using agents. Free tier also doesn't have access to GPT-4.
+
+Was this review helpful?
+
+CV
+Charles V.
+Rating: 4.5 out of 5
+2 weeks ago
+Very nice and important tutorial, with excellent information that is well structured by a very knowledgeable teacher.
+
+The only complaint was that there was maybe too much put into explaining with graphics rather than coding, which made the course a bit hard to follow sometimes. But the quality of the content ultimately shone through.
+
+Was this review helpful?
+
+S
+Sambasiva
+Rating: 5.0 out of 5
+2 months ago
+I am thoroughly impressed with the course taught by Stephen. Their use of dynamic code, real-world examples, and clear explanations has made complex concepts easy to understand. The instructor's teaching style is engaging and effective, making the learning experience enjoyable and rewarding. I highly recommend this course to anyone looking to enhance their skills. Thank you for providing such valuable content!
+
+Was this review helpful?
+
+DM
+Diego M.
+Rating: 3.5 out of 5
+a week ago
+El curso esta muy bien explicado, el profesor es genial, el gran problema es que con los ultimos cambios de langchain, hay muchas cosas obsoletas (deprecated) por ejemplo toda la seccion de streaming podria ser saltada con la version 0.1.19. con una actualizada seria un 5.
+
+Was this review helpful?
+
+CS
+Chem S.
+Rating: 5.0 out of 5
+a month ago
+Great course. The techniques will help you build a production ready AI service.
+
+Was this review helpful?
+
+PW
+Paul Van W.
+Rating: 4.0 out of 5
+a month ago
+As always, Stephen has a great amount of information to share. Langchain is evolving quickly and newer versions do not support the suggested implementation anymore. So you will be forced to use older versions.
+
+ChatGPT does not have a free tier anymore and you will need to spend $5 ( you will use less than $0.15 of that ) to be able to follow along.
+
+I was initially running Ollama locally and trying to have everything talk locally, but that is basically impossible in the last project since a lot of that is pre setup.
+
+I still think that this is a really good use of my time and as always I walk away having learned a lot of new things.
+
+Was this review helpful?
+
+
+Sruti R.
+Rating: 5.0 out of 5
+3 months ago
+Great course for anyone looking to leverage LLMs in their application. The instructer is great at explaining the various features of langchain using a real example. The course covers the simplest way langchain can be used to how is implemented in a very relatable production project while covering many areas of consideration when it comes to programatically interacting with an LLM.
+
+Was this review helpful?
+
+RB
+Rei B.
+Rating: 5.0 out of 5
+3 months ago
+Stephen is so organised with all his slides and his lecturers. He is extremely detailed in his explanation and it's clear that he is very knowledgeable. I learn so much in this course! Highly recommend
+
+Was this review helpful?
+
+BE
+Babak E.
+Rating: 4.5 out of 5
+2 months ago
+This course for pro and some lib must be updated. The Redis installation for Windows does not work unless you install Ubuntu in Windows. In pdf Upload, you should do that in try exception to overcome the problems
+
+Was this review helpful?
+
+NT
+Nikhil T.
+Rating: 4.0 out of 5
+a month ago
+The course was extremely detailed and covers the basics of Langchain very well.
+
+Somewhere around the 2nd half of the course, the focus shifted to building the web app rather than Langchain. A major chunk of the course is not about Langchain itself but about the app that is being built.
+
+Was this review helpful?
+
+AG
+Ashish G.
+Rating: 5.0 out of 5
+2 months ago
+just outstanding work, absolutely clear explanation and codes....this is the best course i have purchased and absolutely worth it.
+
+Was this review helpful?
+
+AG
+Arjun G.
+Rating: 5.0 out of 5
+2 weeks ago
+Excellent Introduction to the subject at hand. Hope the course will be kept updated with new changes.
+
+Was this review helpful?
+
+MG
+Miroslav G.
+Rating: 5.0 out of 5
+a month ago
+I recently wrapped up the 'LangChain using ChatGPT' course led by Stephen and wow, what a fantastic journey! Stephen has this cool way of using Miro boards to simplify complex topics into neat, easy-to-digest visual diagrams. It really resonated with me and made the concepts stick. Even as someone who’s been coding in Python for a while, I found the course's clear progression from basic to advanced topics super helpful—it’s given me some nifty tricks to streamline my day-to-day tasks. If you’re looking to up your game using LangChain and any LLM, including ChatGTP, and make your workflow more efficient, I can’t recommend this course enough. It’s a game-changer!
+
+Was this review helpful?
+
+MS
+Michael S.
+Rating: 5.0 out of 5
+3 months ago
+This course is excellent. It is well organized and provides solutions to production level challenges. Not only did I learn a lot about LangChain, I picked up some more advanced knowledge on Python in general.
+
+I like how the instructor also focuses on the user experience in addition to the backend. So, you are not just learning about LangChain. You are learning about how to use LangChain in a real-world app providing a good user experience.
+
+Was this review helpful?
+
+AG
+Alexander G.
+Rating: 5.0 out of 5
+2 months ago
+Great course for whoever wants to understand how LLM and Langchain work together. a lot of great content. definitely recommend. I feel confident to do my own projects. Thank you!
+
+Was this review helpful?
+
+OA
+Orkideh A.
+Rating: 5.0 out of 5
+3 weeks ago
+I'm thoroughly impressed with the LangChain training! It's been an invaluable learning experience, thanks to the comprehensive content and clear instruction. I'm eager to see more from you as your teaching style is exceptional.
+
+Was this review helpful?
+
+AA
+Aous A.
+Rating: 5.0 out of 5
+2 weeks ago
+This course by far is the best course I have taken on Udemy, and I have taken a lot of courses. Stephen always starts by laying the foundational theory behind what he is going to go over with a clear and conscious way. He always makes sure the student has a grasp of the theory prior to delving in the code/technical part of the course. Then when going through the code development process, he always makes sure to explain every line of code and tie it back to the theoretical part of the course. His use of diagrams is exceptional, very clear and well put-together diagrams that will help the student understand the whole process.
+
+Was this review helpful?
+
+MF
+Mark F.
+Rating: 5.0 out of 5
+2 months ago
+Outstanding course. I had previously attempted to watch the rather long one put out by free code camp and found it unwatchable. This was the exact opposite. Stephen dives right in and shows you what is necessary to get going. Stephen is a trusted teacher on Udemy for a reason.
+
+Was this review helpful?
+
+PA
+Pierre-Sylvain A.
+Rating: 5.0 out of 5
+2 months ago
+This course was a deep yet navigable dive into the world of Langchain. For anyone looking to explore Langchain, this course is a good gateway.
+
+Was this review helpful?
+
+高橋
+Rating: 5.0 out of 5
+4 months ago
+It was a very informative course that explained in detail, from the basics to the services that become important when actually creating a service, even though they are not mentioned in the official documentation.
+
+Was this review helpful?
+
+
+Mohammed A.
+Rating: 4.5 out of 5
+3 months ago
+One of my best investments into learning. Thank you.
+
+The course slides need some planning/rework though.
+
+Was this review helpful?
+
+LH
+Lindsay H.
+Rating: 5.0 out of 5
+2 months ago
+Excellent content, concise, and relevant to understanding how ChatGPT and Langchain embeddings function to create AI production ready apps with AI Integration.
+
+Was this review helpful?
+
+ED
+Edan D.
+Rating: 5.0 out of 5
+2 weeks ago
+Very comprehensive, Gives a very solid foundation and explains a lot of in depth information without overburdening the student.
+
+wholly geared towards building upon the knowledge and not just getting the example projects done.
+
+Was this review helpful?
+
+
+Ankit A.
+Rating: 5.0 out of 5
+a month ago
+This is an excellent course. Stephen has put in a lot of effort to make sure that the projects are fun and you learn a lot. Thanks.
+
+Was this review helpful?
+
+SP
+Subhankar P.
+Rating: 5.0 out of 5
+4 months ago
+what an amazing course - cannot pause .... there is some fascinating stuff to learn and really separate the hype from the actual mechanics of making AI Chatbots work .... really great work explaining in small video chunks ....
+
+Was this review helpful?
+
+LJ
+Leif J.
+Rating: 4.0 out of 5
+a month ago
+Superb. He should add more forest views to all the tree descriptions. It would also be nice to hear how he came up with the solutions so we could be more self sufficient in the real world.
+
+Was this review helpful?
+
+
+Alejandro C.
+Rating: 5.0 out of 5
+4 months ago
+A lot of work behind this course! Stephen not only teaches you what Langchain is and how to use it, but also shows a good amount of aspects necessary to build a complete app. A totally recommended course for full-stack developers who want to enter the world of LLMs and Lanchain.
+
+Was this review helpful?
+
+AG
+Aaron G.
+Rating: 5.0 out of 5
+2 months ago
+Stephen uses lots of diagrams and practical examples in his courses. Thus far, this is no different. With so many persons offering training on a subject, I always look to see if Stephen has a course on it before making my decision.
+
+One difficulty I've had was the issue of deprecated libraries for the eCommerce app in section #6. I was unable to code along because the errors were a bit overwhelming, but I did follow everything he did. It would help if there was an updated collection of the code files for us to review and evaluate on our own - as opposed to him having to recreate the videos accordingly.
+
+Was this review helpful?
+
+LM
+Luke M.
+Rating: 5.0 out of 5
+2 months ago
+The course is well structured, detailed and follows good practices.
+
+Above all else, Stephen has the skill to decipher when to use certain tools like Langchain and when not to, and opt for his own solution. This provides ease of learning, best practices, and new software learning opportunities.
+
+Was this review helpful?
+
+
+Ivan P.
+Rating: 5.0 out of 5
+4 months ago
+This has been an amazing training. Considering the speed this is getting, I would love to see a new Advanced training soon, maybe including some patterns such as RAG or the usage of other models like Mixtral and LLAMA 2.
+
+But wow, amazing. Thank you Stephen!!
+
+Was this review helpful?
+
+JL
+Johan L.
+Rating: 5.0 out of 5
+a month ago
+The explanations are on point and the code examples are easy to follow. I really feel like I understand this stuff a bit better for each lesson. I highly recommend this course.
+
+Was this review helpful?
+
+GB
+Gary B.
+Rating: 5.0 out of 5
+2 months ago
+Awesome course ... instructor has a great teaching style and super knowledgeable.
+
+Was this review helpful?
+
+NR
+Nileena R.
+Rating: 5.0 out of 5
+4 months ago
+This is a thoroughly researched and well-put-together course, that leaves nothing to our imagination. Kudos to you for a well-thought-out and defined course. Learned a lot from this one and hope to put all this knowledge gained to good use soon.
+
+Was this review helpful?
+
+MV
+Mike V.
+Rating: 5.0 out of 5
+3 months ago
+Excellent as always! It is getting out of date with LCEL but still worth watching. I would love to see a JS version.
+
+Was this review helpful?
+
+DS
+Doron S.
+Rating: 5.0 out of 5
+a month ago
+This is the best course by far explaining this topic
+
+Was this review helpful?
+
+AM
+Adam M.
+Rating: 4.5 out of 5
+5 months ago
+I had taken two other (shorter) courses in this same topic on udemy and they left me really wanting more. Those courses are essentially code walk-throughs. They had the feel of a developer trying to act as a teacher. I was lost when I had to go out and try to apply what I had learned because there was very little taught about the theory.
+
+With this course, you have the approach of a teacher trying to teach theory. There are lots of diagrams and chapters spent on detailing what happens under the hood. I like when instructor have us assemble code piece-by-piece, including starting small and re-factoring as needed.
+
+A word of warning: if you are somewhat new to python (as I am), eventually it becomes difficult to see the trees from the forest. This is not a complaint - Stephen tells us up front that this is not a class on Python development and that he assembled some code to save us time. I don't know if this is possible, but it might have been nice to spend a little more time on how the various pieces fit together. I suspect that will be one of the things that I'll do next for myself as I try to better understand what I got out of this course. The important thing is that Stephen has given me a MUCH, MUCH better understanding of Lanchain that I had coming in. I can't recommend this course enough.
+
+Was this review helpful?
+
+TM
+Tom M.
+Rating: 5.0 out of 5
+2 months ago
+I've built a career off of a foundation built on Grider's videos, so I thought 5 shiny stars was the least I could do. He is leagues above everyone else and understands how to teach as well as to demo. Plus he sounds less ridiculous on 1.5 speed than most other people
+
+Was this review helpful?
+
+CC
+Calvin C.
+Rating: 4.5 out of 5
+3 months ago
+I'm learning a ton of relevant information pertaining to LLMs, and resource-augmented generation (RAG) which is frequently being across multiple tech industries, whether it's application security, CRM software, or self-developed internal business tools.
+
+Was this review helpful?
+
+IG
+Igor G.
+Rating: 5.0 out of 5
+4 months ago
+Another masterclass from Stephen! He teaches LangChain very effectively, focusing on many technical details of quite complicated framework. Above and beyond!
+
+Was this review helpful?
+
+
+Matthias D.
+Rating: 5.0 out of 5
+4 months ago
+This course was fantastic, very engaging and in-depth. I believe I have now a decent understanding of the moving pieces that make up a complex LangChain application and I feel confident starting to build projects on my own. Thanks, Stephen!
+
+Was this review helpful?
+
+OA
+Oguz A.
+Rating: 5.0 out of 5
+a month ago
+That is an awesome course with tons of details around LangChain. I really love and appreciate Stephan for his great work.
+
+Was this review helpful?
+
+EA
+Erasmus A.
+Rating: 3.0 out of 5
+5 months ago
+I personally feel this course is ok but does not go indepth about langchain agents and tools, it hasn't explained the different kind of agents available and their use cases and how to execute them in a project.
+
+Was this review helpful?
