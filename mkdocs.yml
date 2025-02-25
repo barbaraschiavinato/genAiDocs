@@ -1,6 +1,6 @@
 site_name: GenAI investigations
 site_author: Barbara Schiavinato
-site_url: https://placeholder/
+site_url: https://barbaraschiavinato.github.io/genAiDocs/
 use_directory_urls: false
 not_in_nav: |
   /includes
