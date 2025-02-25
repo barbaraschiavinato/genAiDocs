@@ -39,7 +39,7 @@ jobs:
           pip install mkdocs-glightbox
           pip install mkdocs-git-revision-date-plugin
           pip install pygments
-          pip install include-markdown
+          pip install mkdocs-include-markdown-plugin
 
       - name: Build MkDocs site
         run: mkdocs build

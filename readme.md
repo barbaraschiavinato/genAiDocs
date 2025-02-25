@@ -18,7 +18,7 @@ Install MkDocs and plugins:
     pip install mkdocs-git-authors-plugin // add git author
     pip install neoteroi-mkdocs // add openAi Docs plugin
     pip install pygments // add plugin to highlight code
-    pip install include-markdown // allow inclusions
+    pip install mkdocs-include-markdown-plugin // allow inclusions
 ```
 
 Install commit to change-log features:
